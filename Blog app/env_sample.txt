@@ -1,0 +1,4 @@
+MONGODB_URL = ""
+JWTSecret = ""
+JWTExpiresIn = 
+CLOUDINARY_API_SECRET = ""
